@@ -1,7 +1,7 @@
 <h1 align="center"> PERFIL PROFESIONAL</h1>
 
 <p align="center">
-  <img src="https://github.com/aguaicalmelo-spec/Perfilprofesional.gh/blob/main/image.png" width="150" style="border-radius: 50%;" alt="Foto de perfil"/>
+  <img src="https://github.com/aguaicalmelo-spec/Perfilprofesional.gh/blob/4d4a16786c36bd9efe5f9706dab8d7f23247af34/image.png" width="300" style="border-radius: 50%;" alt="Foto de perfil"/>
 </p>
 
 <p align="center">
@@ -80,6 +80,6 @@ Proyecto académico en desarrollo, enfocado en el análisis de problemáticas ur
 
 ##  Contacto
 
-<p align="center">
+
 📩 Aguaicalmelo@gmail.com
-</p>
+
