@@ -1,4 +1,4 @@
-![image alt](https://github.com/aguaicalmelo-spec/Perfilprofesional.gh/blob/84c76c119b91a8231abf3917f9ed4c5eddb6b8c6/image.png)
+![image alt]()
 # Perfilprofesional
 ## Ancuya – Nariño   
 Katherin Alejandra Guaical Melo
